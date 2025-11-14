@@ -165,4 +165,4 @@ Find the section in the respective page file and modify the text, data, or featu
 
 **Ready? Run `npm run dev` and visit http://localhost:3000**
 
-🎉 Happy exploring SwasthaLink!
+🎉 Happy exploring SwasthPath!

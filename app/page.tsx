@@ -82,7 +82,7 @@ export default function Home() {
               transition={{ duration: 0.5 }}
               className="text-4xl md:text-5xl font-bold text-gray-900 mb-4"
             >
-              Three Pillars of <span className="text-primary-600">SwasthaLink</span>
+              Three Pillars of <span className="text-primary-600">SwasthPath</span>
             </motion.h2>
             <motion.p 
               initial={{ opacity: 0 }}
@@ -140,7 +140,7 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              How <span className="text-primary-600">SwasthaLink</span> Works
+              How <span className="text-primary-600">SwasthPath</span> Works
             </h2>
             <p className="text-xl text-gray-600">
               A seamless journey from access to emergency care
@@ -220,7 +220,7 @@ export default function Home() {
             Ready to Transform Healthcare Access?
           </h2>
           <p className="text-xl mb-8 opacity-90">
-            Join thousands of healthcare providers and patients already using SwasthaLink
+            Join thousands of healthcare providers and patients already using SwasthPath
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/swasthpath">

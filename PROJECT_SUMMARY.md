@@ -1,8 +1,8 @@
-# SwasthaLink - Project Summary
+# SwasthPath - Project Summary
 
 ## 🎯 Project Overview
 
-**SwasthaLink** is a comprehensive digital healthcare ecosystem designed to revolutionize healthcare access across India. Built with Next.js 14, TypeScript, and modern web technologies, it consists of three interconnected platforms that work together to provide seamless healthcare services.
+**SwasthPath** is a comprehensive digital healthcare ecosystem designed to revolutionize healthcare access across India. Built with Next.js 14, TypeScript, and modern web technologies, it consists of three interconnected platforms that work together to provide seamless healthcare services.
 
 ---
 
@@ -432,4 +432,4 @@ For setup issues:
 
 **Built with ❤️ for India's healthcare revolution**
 
-SwasthaLink - Path. Net. Setu. - One guides, one learns, one saves.
+SwasthPath - Path. Net. Setu. - One guides, one learns, one saves.
