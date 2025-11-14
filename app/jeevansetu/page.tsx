@@ -350,10 +350,10 @@ export default function JeevanSetu() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              SwasthaLink Mobile Units
+              SwasthPath Mobile Units
             </h2>
             <p className="text-xl opacity-90 max-w-3xl mx-auto">
-              In areas with ambulance deserts, we deploy dedicated SwasthaLink emergency units
+              In areas with ambulance deserts, we deploy dedicated SwasthPath emergency units
             </p>
           </motion.div>
 
@@ -367,7 +367,7 @@ export default function JeevanSetu() {
               },
               {
                 icon: Radio,
-                title: 'SwasthaLink Units',
+                title: 'SwasthPath Units',
                 description: 'Dedicated units in service deserts with advanced equipment',
                 stat: '200+'
               },

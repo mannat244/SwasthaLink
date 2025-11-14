@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SwasthaLink - India's Digital Health Bridge",
+  title: "SwasthPath - India's Digital Health Bridge",
   description: "Built on three layers: Path. Net. Setu. One guides, one learns, one saves.",
 };
 

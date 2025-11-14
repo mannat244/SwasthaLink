@@ -30,7 +30,7 @@ export default function Navbar() {
                 <span className="text-white font-bold text-xl">S</span>
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">SwasthaLink</h1>
+                <h1 className="text-2xl font-bold text-gray-900">SwasthPath</h1>
                 <p className="text-xs text-gray-600">Digital Health Bridge</p>
               </div>
             </motion.div>

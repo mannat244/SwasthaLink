@@ -1,4 +1,4 @@
-# SwasthaLink - Setup Instructions
+# SwasthPath - Setup Instructions
 
 ## Quick Start Guide
 

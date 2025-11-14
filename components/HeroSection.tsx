@@ -58,7 +58,7 @@ export default function HeroSection() {
               transition={{ delay: 0.4 }}
               className="block"
             >
-              SwasthaLink
+              SwasthPath
             </motion.span>
             <motion.span
               initial={{ opacity: 0, y: 20 }}

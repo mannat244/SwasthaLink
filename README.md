@@ -1,17 +1,17 @@
-# SwasthaLink - India's Digital Health Bridge
+# SwasthPath - India's Digital Health Bridge
 
-![SwasthaLink Logo](https://img.shields.io/badge/SwasthaLink-Healthcare-00cccc?style=for-the-badge)
+![SwasthPath Logo](https://img.shields.io/badge/SwasthPath-Healthcare-00cccc?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?style=for-the-badge&logo=tailwind-css)
 
 **One guides, one learns, one saves.**
 
-SwasthaLink is a comprehensive digital healthcare ecosystem built on three interconnected platforms designed to revolutionize healthcare access in India.
+SwasthPath is a comprehensive digital healthcare ecosystem built on three interconnected platforms designed to revolutionize healthcare access in India.
 
 ---
 
-## 🏥 Three Pillars of SwasthaLink
+## 🏥 Three Pillars of SwasthPath
 
 ### 1. **SwasthPath** – The Pathway to Care
 *Simplifying Healthcare Access*
@@ -140,7 +140,7 @@ Swath_Parth/
 ### Home (`/`)
 - Overview of all three platforms
 - Statistics and impact metrics
-- How SwasthaLink works
+- How SwasthPath works
 - Call-to-action sections
 
 ### SwasthPath (`/swasthpath`)
@@ -235,7 +235,7 @@ Built for India's healthcare revolution.
 ## 📞 Contact
 
 For questions or support:
-- Email: support@swasthalink.in
+- Email: support@swasthpath.in
 - Emergency: 1800-XXX-XXXX
 
 ---
@@ -261,4 +261,4 @@ For questions or support:
 
 ---
 
-**SwasthaLink** - *Path. Net. Setu.* - One guides, one learns, one saves.
+**SwasthPath** - *Path. Net. Setu.* - One guides, one learns, one saves.
