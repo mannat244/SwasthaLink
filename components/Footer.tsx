@@ -21,7 +21,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-sm text-gray-400 mb-4">
-              One guides, one learns, one saves. Building India's digital health ecosystem.
+              One guides, one learns, one saves. Building India&apos;s digital health ecosystem.
             </p>
             <div className="flex gap-4">
               <a href="#" className="hover:text-primary-400 transition-colors">
@@ -106,7 +106,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; {new Date().getFullYear()} SwasthPath. All rights reserved. Built for India's healthcare revolution.</p>
+          <p>&copy; {new Date().getFullYear()} SwasthPath. All rights reserved. Built for India&apos;s healthcare revolution.</p>
         </div>
       </div>
     </footer>

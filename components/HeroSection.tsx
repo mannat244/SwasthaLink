@@ -48,7 +48,7 @@ export default function HeroSection() {
             className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg mb-8"
           >
             <Sparkles className="w-5 h-5 text-primary-600" />
-            <span className="text-primary-600 font-semibold">India's Digital Health Bridge</span>
+            <span className="text-primary-600 font-semibold">India&apos;s Digital Health Bridge</span>
           </motion.div>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-gray-900 mb-6">

@@ -247,7 +247,7 @@ export default function JeevanSetu() {
               Emergency Response Features
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Built for India's diverse connectivity landscape
+              Built for India&apos;s diverse connectivity landscape
             </p>
           </motion.div>
 
